@@ -31,7 +31,7 @@ $ git clone https://github.com/iamgabrieldev/dtmoney.git && cd dtmoney
 # Install the dependencies
 $ yarn
 # Start the app
-$ yarn start
+$ yarn dev
 ```
 
 <p align="center">
